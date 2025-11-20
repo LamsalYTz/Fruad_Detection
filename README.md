@@ -22,3 +22,10 @@ Detect fraudulent transactions instantly by uploading your CSV or Excel file.
 - NumPy
 
 ## 📂 Project Structure
+fruad_detection/
+├── App/
+│   └── streamlit_app.py    ← Main app
+├── data/                   ← Sample data (optional)
+├── models/                 ← Trained model (.pkl)
+├── notebooks/              ← EDA & model training
+└── README.md
