@@ -6,4 +6,7 @@ joblib
 matplotlib
 seaborn
 fastapi
-dotenv
+python-dotenv
+uvicorn
+requests
+pydantic
